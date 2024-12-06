@@ -1,0 +1,181 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "name": "internal",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js"
+    ]
+  },
+  "_attributes.js": {
+    "file": "chunks/attributes.js",
+    "name": "attributes",
+    "imports": [
+      "_escaping.js"
+    ]
+  },
+  "_client.js": {
+    "file": "chunks/client.js",
+    "name": "client",
+    "imports": [
+      "_exports.js"
+    ]
+  },
+  "_escaping.js": {
+    "file": "chunks/escaping.js",
+    "name": "escaping"
+  },
+  "_exports.js": {
+    "file": "chunks/exports.js",
+    "name": "exports"
+  },
+  "_index.js": {
+    "file": "chunks/index.js",
+    "name": "index"
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "name": "internal",
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/svelte-5/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "name": "entries/fallbacks/error.svelte",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/svelte-5/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_client.js",
+      "_escaping.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "name": "index",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_internal.js",
+      "_exports.js"
+    ]
+  },
+  "src/lib/assets/Human_With_All_Organs.png": {
+    "file": "_app/immutable/assets/Human_With_All_Organs.BZujY2Kl.png",
+    "src": "src/lib/assets/Human_With_All_Organs.png"
+  },
+  "src/lib/assets/Lyreco_Logo.png": {
+    "file": "_app/immutable/assets/Lyreco_Logo.kwIwLxLo.png",
+    "src": "src/lib/assets/Lyreco_Logo.png"
+  },
+  "src/lib/assets/cookie.jpg": {
+    "file": "_app/immutable/assets/cookie.ORRqNA8X.jpg",
+    "src": "src/lib/assets/cookie.jpg"
+  },
+  "src/lib/assets/foie.jpg": {
+    "file": "_app/immutable/assets/foie.BTAZ5Jch.jpg",
+    "src": "src/lib/assets/foie.jpg"
+  },
+  "src/lib/assets/logo race water.jpg": {
+    "file": "_app/immutable/assets/logo race water.BTi0VH17.jpg",
+    "src": "src/lib/assets/logo race water.jpg"
+  },
+  "src/lib/assets/parallax wall.jpg": {
+    "file": "_app/immutable/assets/parallax wall.DUDrFaRA.jpg",
+    "src": "src/lib/assets/parallax wall.jpg"
+  },
+  "src/lib/assets/poumons.jpg": {
+    "file": "_app/immutable/assets/poumons.DP0Kkf3K.jpg",
+    "src": "src/lib/assets/poumons.jpg"
+  },
+  "src/lib/assets/rickroll.mp4": {
+    "file": "_app/immutable/assets/rickroll.CwmM50_6.mp4",
+    "src": "src/lib/assets/rickroll.mp4"
+  },
+  "src/lib/assets/roulette.png": {
+    "file": "_app/immutable/assets/roulette.BhrsuQb_.png",
+    "src": "src/lib/assets/roulette.png"
+  },
+  "src/routes/+layout.js": {
+    "file": "entries/pages/_layout.js",
+    "name": "entries/pages/_layout",
+    "src": "src/routes/+layout.js",
+    "isEntry": true
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "name": "entries/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_client.js",
+      "_attributes.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.CSraeo4W.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/parallax wall.DUDrFaRA.jpg",
+      "_app/immutable/assets/roulette.BhrsuQb_.png",
+      "_app/immutable/assets/logo race water.BTi0VH17.jpg"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "name": "entries/pages/_page.svelte",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_attributes.js",
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.DSX0Tb4j.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/Lyreco_Logo.kwIwLxLo.png",
+      "_app/immutable/assets/rickroll.CwmM50_6.mp4"
+    ]
+  },
+  "src/routes/apropos/+page.svelte": {
+    "file": "entries/pages/apropos/_page.svelte.js",
+    "name": "entries/pages/apropos/_page.svelte",
+    "src": "src/routes/apropos/+page.svelte",
+    "isEntry": true,
+    "css": [
+      "_app/immutable/assets/_page.BZFtYJ7n.css"
+    ]
+  },
+  "src/routes/corps/+page.svelte": {
+    "file": "entries/pages/corps/_page.svelte.js",
+    "name": "entries/pages/corps/_page.svelte",
+    "src": "src/routes/corps/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_attributes.js",
+      "_escaping.js",
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.BeqUOK52.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/poumons.DP0Kkf3K.jpg",
+      "_app/immutable/assets/foie.BTAZ5Jch.jpg",
+      "_app/immutable/assets/Human_With_All_Organs.BZujY2Kl.png"
+    ]
+  },
+  "src/routes/credits/+page.svelte": {
+    "file": "entries/pages/credits/_page.svelte.js",
+    "name": "entries/pages/credits/_page.svelte",
+    "src": "src/routes/credits/+page.svelte",
+    "isEntry": true,
+    "css": [
+      "_app/immutable/assets/_page.BsbKboQv.css"
+    ]
+  }
+}

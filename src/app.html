@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		%sveltekit.head%
+		<title>Au coeur de l'océan</title>
+
+		<!-- Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+	</head>
+	<body data-sveltekit-preload-data="hover" id="body">
+	<div class="height-value">%sveltekit.body%</div>
+	</body>
+<style>
+
+	.height-value{
+		height: 100%;
+	}
+	html{
+		height: 100%;
+	}
+	body {
+		margin: 0;
+		padding: 0;
+		font-family: Arial, sans-serif;
+		background-color: #e0f7fa;
+		color: #162751;
+		height: 100%;
+		min-height: fit-content;
+	}
+	#roulette{
+		display: none;
+		position: fixed; /* Absolute positioning to allow centering */
+		z-index: 9998; /* Ensure it's on top */
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	#div-roulette{
+		display: none;
+		position: fixed;
+		z-index: 9999;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0, 0, 0, 0.5);
+	}
+	#div-roulette p{
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		z-index: 9999;
+		text-shadow: black 0px 0px 10px;
+		transform: translate(-50%, -50%);
+		color: white;
+		font-weight: bold;
+		font-size: 2em;
+	}
+</style>
+</html>
+
+

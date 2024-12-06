@@ -1,0 +1,278 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "file": "_app/immutable/entry/app.xMXd6Tku.js",
+    "name": "entry/app",
+    "src": ".svelte-kit/generated/client-optimized/app.js",
+    "isEntry": true,
+    "imports": [
+      "_runtime.BxbSig_V.js",
+      "_render.DrVRgwF8.js",
+      "_disclose-version.5-VYsvCH.js",
+      "_if.Ds_vIugX.js",
+      "_proxy.B0E7sdpk.js",
+      "_store.BH3xCYiC.js",
+      "_index-client.CMFo1SHA.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js",
+      ".svelte-kit/generated/client-optimized/nodes/3.js",
+      ".svelte-kit/generated/client-optimized/nodes/4.js",
+      ".svelte-kit/generated/client-optimized/nodes/5.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0.8WIRemb3.js",
+    "name": "nodes/0",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_disclose-version.5-VYsvCH.js",
+      "_runtime.BxbSig_V.js",
+      "_events.CQKBbnPS.js",
+      "_if.Ds_vIugX.js",
+      "_attributes.ChmpTACJ.js",
+      "_legacy.3D2G9Lpc.js",
+      "_lifecycle.DbI5IsWb.js",
+      "_index.DjKJqAo0.js",
+      "_entry.39aVIWKf.js",
+      "_render.DrVRgwF8.js"
+    ],
+    "css": [
+      "_app/immutable/assets/0.CSraeo4W.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/parallax wall.DUDrFaRA.jpg",
+      "_app/immutable/assets/roulette.BhrsuQb_.png",
+      "_app/immutable/assets/logo race water.BTi0VH17.jpg",
+      "_app/immutable/assets/cookie.ORRqNA8X.jpg"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.zs3XMhtU.js",
+    "name": "nodes/1",
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_disclose-version.5-VYsvCH.js",
+      "_legacy.3D2G9Lpc.js",
+      "_runtime.BxbSig_V.js",
+      "_render.DrVRgwF8.js",
+      "_lifecycle.DbI5IsWb.js",
+      "_store.BH3xCYiC.js",
+      "_entry.39aVIWKf.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "_app/immutable/nodes/2.CcCyEP6N.js",
+    "name": "nodes/2",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_disclose-version.5-VYsvCH.js",
+      "_legacy.3D2G9Lpc.js",
+      "_runtime.BxbSig_V.js",
+      "_events.CQKBbnPS.js",
+      "_attributes.ChmpTACJ.js",
+      "_lifecycle.DbI5IsWb.js",
+      "_index-client.CMFo1SHA.js",
+      "_index.DjKJqAo0.js"
+    ],
+    "css": [
+      "_app/immutable/assets/2.DSX0Tb4j.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/Lyreco_Logo.kwIwLxLo.png",
+      "_app/immutable/assets/rickroll.CwmM50_6.mp4"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/3.js": {
+    "file": "_app/immutable/nodes/3.Chwe6sVs.js",
+    "name": "nodes/3",
+    "src": ".svelte-kit/generated/client-optimized/nodes/3.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_disclose-version.5-VYsvCH.js",
+      "_legacy.3D2G9Lpc.js"
+    ],
+    "css": [
+      "_app/immutable/assets/3.BZFtYJ7n.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/4.js": {
+    "file": "_app/immutable/nodes/4.BlalqFa7.js",
+    "name": "nodes/4",
+    "src": ".svelte-kit/generated/client-optimized/nodes/4.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_disclose-version.5-VYsvCH.js",
+      "_runtime.BxbSig_V.js",
+      "_render.DrVRgwF8.js",
+      "_attributes.ChmpTACJ.js",
+      "_events.CQKBbnPS.js",
+      "_proxy.B0E7sdpk.js"
+    ],
+    "css": [
+      "_app/immutable/assets/4.BeqUOK52.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/poumons.DP0Kkf3K.jpg",
+      "_app/immutable/assets/foie.BTAZ5Jch.jpg",
+      "_app/immutable/assets/Human_With_All_Organs.BZujY2Kl.png"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/5.js": {
+    "file": "_app/immutable/nodes/5.DbcmXxiv.js",
+    "name": "nodes/5",
+    "src": ".svelte-kit/generated/client-optimized/nodes/5.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_disclose-version.5-VYsvCH.js",
+      "_legacy.3D2G9Lpc.js",
+      "_runtime.BxbSig_V.js",
+      "_events.CQKBbnPS.js"
+    ],
+    "css": [
+      "_app/immutable/assets/5.BsbKboQv.css"
+    ]
+  },
+  "_attributes.ChmpTACJ.js": {
+    "file": "_app/immutable/chunks/attributes.ChmpTACJ.js",
+    "name": "attributes",
+    "imports": [
+      "_runtime.BxbSig_V.js"
+    ]
+  },
+  "_disclose-version.5-VYsvCH.js": {
+    "file": "_app/immutable/chunks/disclose-version.5-VYsvCH.js",
+    "name": "disclose-version",
+    "imports": [
+      "_runtime.BxbSig_V.js"
+    ]
+  },
+  "_entry.39aVIWKf.js": {
+    "file": "_app/immutable/chunks/entry.39aVIWKf.js",
+    "name": "entry",
+    "imports": [
+      "_runtime.BxbSig_V.js"
+    ]
+  },
+  "_events.CQKBbnPS.js": {
+    "file": "_app/immutable/chunks/events.CQKBbnPS.js",
+    "name": "events",
+    "imports": [
+      "_runtime.BxbSig_V.js"
+    ]
+  },
+  "_if.Ds_vIugX.js": {
+    "file": "_app/immutable/chunks/if.Ds_vIugX.js",
+    "name": "if",
+    "imports": [
+      "_runtime.BxbSig_V.js"
+    ]
+  },
+  "_index-client.CMFo1SHA.js": {
+    "file": "_app/immutable/chunks/index-client.CMFo1SHA.js",
+    "name": "index-client",
+    "imports": [
+      "_runtime.BxbSig_V.js"
+    ]
+  },
+  "_index.DjKJqAo0.js": {
+    "file": "_app/immutable/chunks/index.DjKJqAo0.js",
+    "name": "index"
+  },
+  "_legacy.3D2G9Lpc.js": {
+    "file": "_app/immutable/chunks/legacy.3D2G9Lpc.js",
+    "name": "legacy",
+    "imports": [
+      "_runtime.BxbSig_V.js"
+    ]
+  },
+  "_lifecycle.DbI5IsWb.js": {
+    "file": "_app/immutable/chunks/lifecycle.DbI5IsWb.js",
+    "name": "lifecycle",
+    "imports": [
+      "_runtime.BxbSig_V.js"
+    ]
+  },
+  "_proxy.B0E7sdpk.js": {
+    "file": "_app/immutable/chunks/proxy.B0E7sdpk.js",
+    "name": "proxy",
+    "imports": [
+      "_runtime.BxbSig_V.js"
+    ]
+  },
+  "_render.DrVRgwF8.js": {
+    "file": "_app/immutable/chunks/render.DrVRgwF8.js",
+    "name": "render",
+    "imports": [
+      "_runtime.BxbSig_V.js",
+      "_events.CQKBbnPS.js",
+      "_disclose-version.5-VYsvCH.js"
+    ]
+  },
+  "_runtime.BxbSig_V.js": {
+    "file": "_app/immutable/chunks/runtime.BxbSig_V.js",
+    "name": "runtime"
+  },
+  "_store.BH3xCYiC.js": {
+    "file": "_app/immutable/chunks/store.BH3xCYiC.js",
+    "name": "store",
+    "imports": [
+      "_runtime.BxbSig_V.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
+    "file": "_app/immutable/entry/start.Bv0A_LFF.js",
+    "name": "entry/start",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_entry.39aVIWKf.js"
+    ]
+  },
+  "src/lib/assets/Human_With_All_Organs.png": {
+    "file": "_app/immutable/assets/Human_With_All_Organs.BZujY2Kl.png",
+    "src": "src/lib/assets/Human_With_All_Organs.png"
+  },
+  "src/lib/assets/Lyreco_Logo.png": {
+    "file": "_app/immutable/assets/Lyreco_Logo.kwIwLxLo.png",
+    "src": "src/lib/assets/Lyreco_Logo.png"
+  },
+  "src/lib/assets/cookie.jpg": {
+    "file": "_app/immutable/assets/cookie.ORRqNA8X.jpg",
+    "src": "src/lib/assets/cookie.jpg"
+  },
+  "src/lib/assets/foie.jpg": {
+    "file": "_app/immutable/assets/foie.BTAZ5Jch.jpg",
+    "src": "src/lib/assets/foie.jpg"
+  },
+  "src/lib/assets/logo race water.jpg": {
+    "file": "_app/immutable/assets/logo race water.BTi0VH17.jpg",
+    "src": "src/lib/assets/logo race water.jpg"
+  },
+  "src/lib/assets/parallax wall.jpg": {
+    "file": "_app/immutable/assets/parallax wall.DUDrFaRA.jpg",
+    "src": "src/lib/assets/parallax wall.jpg"
+  },
+  "src/lib/assets/poumons.jpg": {
+    "file": "_app/immutable/assets/poumons.DP0Kkf3K.jpg",
+    "src": "src/lib/assets/poumons.jpg"
+  },
+  "src/lib/assets/rickroll.mp4": {
+    "file": "_app/immutable/assets/rickroll.CwmM50_6.mp4",
+    "src": "src/lib/assets/rickroll.mp4"
+  },
+  "src/lib/assets/roulette.png": {
+    "file": "_app/immutable/assets/roulette.BhrsuQb_.png",
+    "src": "src/lib/assets/roulette.png"
+  }
+}

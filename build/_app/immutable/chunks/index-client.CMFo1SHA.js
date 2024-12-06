@@ -1,0 +1,1 @@
+import{i as o,T as t,g as c,j as u}from"./runtime.BxbSig_V.js";function a(e){throw new Error("lifecycle_outside_component")}function r(e){o===null&&a(),t&&o.l!==null?i(o).m.push(e):c(()=>{const n=u(e);if(typeof n=="function")return n})}function i(e){var n=e.l;return n.u??(n.u={a:[],b:[],m:[]})}export{r as o};
